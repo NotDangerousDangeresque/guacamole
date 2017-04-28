@@ -1,4 +1,4 @@
-- Combine an avacado 
+- Combine an avacado if its brown 
 - with onion
 - and jalapenos
 - and lime juice
